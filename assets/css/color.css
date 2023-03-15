@@ -38,24 +38,24 @@
 
 .main-menu .navigation > li.current > a,
 .main-menu .navigation > li:hover > a{
-  color: #f4244f;
+  color: #CA433B;
 }
 
 .main-menu .navigation > li > ul > li > a:hover,
 .main-menu .navigation > li > .megamenu li > a:hover{
-	color: #f4244f;
+	color: #CA433B;
 }
 
 .main-menu .navigation > li > ul > li > ul > li > a:hover{
-  color: #f4244f;
+  color: #CA433B;
 }
 
 .main-menu .navigation > li > .megamenu li > a:before{
-	background: #f4244f;
+	background: #CA433B;
 }
 
 .g_color{
-	background: -webkit-linear-gradient(45deg, #c335da, #fc2643 100%);
+	background: #CA433B;
 }
 
 .image_block_one .image-box .video-inner .video-btn a{
@@ -294,11 +294,11 @@
 }
 
 .sec-title-three h6{
-	color: #6a36ff;
+	color: #CA433B;
 }
 
 .feature-block-three .inner-box .icon-box{
-	color: #6a36ff;
+	color: #CA433B;
 }
 
 .feature-block-three .inner-box:before{
@@ -306,27 +306,27 @@
 }
 
 .chooseus-three .inner-box .single-item .icon-box .icon{
-	color: #6a36ff;
+	color: #00285F;
 }
 
 .chooseus-three .inner-box .single-item h4 a:hover{
-	color: #6a36ff;
+	color: #00285F;
 }
 
 .service-block-three .inner-box .image-box{
-	background: #6a36ff;
+	background: #00285F;
 }
 
 .service-block-three .inner-box .icon-box{
-	color: #6a36ff;
+	color: #00285F;
 }
 
 .service-three .more-btn .theme-btn:hover{
-	border-color: #6a36ff;
+	border-color: #00285F;
 }
 
 .skills-two .progress-box .bar-inner{
-  background: #6a36ff;
+  background: #00285F;
 }
 
 .project-block-two .inner-box h4 a:hover{
@@ -974,7 +974,7 @@
 }
 
 .sec-title-eight h5{
-	color: #f38836;
+	color: #CA433B;
 }
 
 .theme-btn.btn-11{
@@ -2228,15 +2228,15 @@
 }
 
 .news-16 .inner-content .single-item h4 a:hover{
-	color: #e35712;
+	color: #00285F;
 }
 
 .subscribe-one.home-16{
-	background: #e35712;
+	background: #00285F;
 }
 
 .subscribe-one.home-16 .form-inner .form-group button:hover{
-	color: #e35712 !important;
+	color: #CA433B !important;
 }
 
 .footer-16 .footer-top .social-links li a:before{
@@ -2290,7 +2290,7 @@
 }
 
 .sec-title-12 h5{
-	color: #fb4754;
+	color: #CA433B;
 }
 
 .content_block_25 .content-box .single-item .icon-box{
@@ -2519,7 +2519,7 @@
 }
 
 .service-19 .tab-btns li:before{
-	background: #6a36ff;
+	background: #CA433B;
 }
 
 .handle-preloader.service-page-3{
@@ -3075,7 +3075,7 @@
 }
 
 .info-block-one .inner-box .icon-box{
-	color: #e25712;
+	color: #CA433B;
 }
 
 .info-block-one .inner-box p a:hover{
